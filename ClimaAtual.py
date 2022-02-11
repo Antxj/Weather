@@ -1,3 +1,5 @@
-# consegui apagar tudo sem querer, boa
+# consegui apagar tudo sem querer, boa PQP
 
-print('Boa...')
+import config  # config.py com api_key = 'xxxxxx'
+api_key = config.api_key
+
