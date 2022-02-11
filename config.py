@@ -1,0 +1,1 @@
+api_key = 'f4a406b451683f46d0b01481cce7afa5'  # tenho que aprender como esconder API_KEY
