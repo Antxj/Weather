@@ -34,11 +34,13 @@ print(f'Temperatura: {temperatura_atual:.2f}°C')
 print(f'Céu: {descricao_atual.capitalize()}')
 print(f'Sensação térmica de: {sensacao_termica_atual:.2f}°C')
 
-# Exemplo de resultado :
+# Exemplo de resultado:
+
 # O tempo em Brasilia:
 # Temperatura: 22.51°C
 # Céu: Chuva forte
 # Sensação térmica de: 22.98°C
+
 # :)
 
 
