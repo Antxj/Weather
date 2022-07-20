@@ -12,7 +12,8 @@ link = f'https://api.openweathermap.org/data/2.5/weather?q={cidade_atual}&appid=
 # print(link)
 
 requisicao_atual = requests.get(link)
-print(f' Resultado da requisição:{requisicao_atual}') # 200 = OK
+print(f' Resultado da requisição:{requisicao_atual}')
+# 200 = OK / 404  = invalido
 
 # Tentando resolver cidades invalidas
 
@@ -20,10 +21,7 @@ if requisicao_atual != '<Response [200]>':
     print('Cidade inválida, tente novamente.')
     exit()
 else:
-    print('Teste')
-
-
-
+    print('Carregando...')
 
 requisicao_dic_atual = requisicao_atual.json()
 # print(requisicao_dic_atual)
