@@ -39,7 +39,6 @@ print(f'Sensação térmica de: {sensacao_termica_atual:.2f}°C')
 # Temperatura: 22.51°C
 # Céu: Chuva forte
 # Sensação térmica de: 22.98°C
-
 # :)
 
 
