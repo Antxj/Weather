@@ -11,8 +11,19 @@ cidade_atual = cidade_atual.lower()
 link = f'https://api.openweathermap.org/data/2.5/weather?q={cidade_atual}&appid={api_key}&lang=pt_br'
 # print(link)
 
-requisicao_atual = requests.get(link)  # 200
-# print(requisicao)
+requisicao_atual = requests.get(link)
+print(f' Resultado da requisição:{requisicao_atual}') # 200 = OK
+
+# Tentando resolver cidades invalidas
+
+if requisicao_atual != '<Response [200]>':
+    print('Cidade inválida, tente novamente.')
+    exit()
+else:
+    print('Teste')
+
+
+
 
 requisicao_dic_atual = requisicao_atual.json()
 # print(requisicao_dic_atual)
@@ -26,7 +37,7 @@ print(f'Temperatura: {temperatura_atual:.2f}°C')
 print(f'Céu: {descricao_atual.capitalize()}')
 print(f'Sensação térmica de: {sensacao_termica_atual:.2f}°C')
 
-# Resultado :
+# Exemplo de resultado :
 # O tempo em Brasilia:
 # Temperatura: 22.51°C
 # Céu: Chuva forte
