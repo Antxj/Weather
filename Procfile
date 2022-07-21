@@ -1,0 +1,1 @@
+reload: python ClimaAtual.py
