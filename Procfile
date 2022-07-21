@@ -1,3 +1,3 @@
-reload: python climaatual.py
+web: python main.py
 
-web: python climaatual.py
+web: python main.py
