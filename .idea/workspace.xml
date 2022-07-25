@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d36d7a60-5ac9-44c3-b9c9-ebb554b44131" name="Changes" comment="Tratando cidades inválidas.">
+      <change afterPath="$PROJECT_DIR$/.ideas/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ideas/Weather.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ideas/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ideas/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ideas/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ideas/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ideas/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teste.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Weather.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="24yQVpkXoNVsfsfZpuq5vDFU7kM" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/msdt-follina-main/msdt-follina-main" />
+  </component>
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Weather" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Weather" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Dreker\PycharmProjects\Weather\main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d36d7a60-5ac9-44c3-b9c9-ebb554b44131" name="Changes" comment="" />
+      <created>1644600372893</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644600372893</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Registrando a merda que fiz">
+      <created>1644600793100</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1644600793100</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Registrando a merda que fiz">
+      <created>1644600809919</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1644600809919</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Registrando a merda que fiz">
+      <created>1644601003180</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1644601003180</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Registrando a merda que fiz">
+      <created>1644601061795</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1644601061795</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Registrando a merda que fiz">
+      <created>1644601095252</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1644601095252</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Registrando a merda que fiz">
+      <created>1644601138614</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1644601138614</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Refazendo...">
+      <created>1644601478750</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1644601478750</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Refazendo...">
+      <created>1644601539822</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1644601539822</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Refazendo...">
+      <created>1644601664130</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1644601664131</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Refazendo...">
+      <created>1644708873747</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1644708873747</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Finalizado!">
+      <created>1644708989546</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1644708989546</updated>
+    </task>
+    <task id="LOCAL-00012" summary="To do list: Previsão do tempo.">
+      <created>1644709069645</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1644709069645</updated>
+    </task>
+    <task id="LOCAL-00013" summary="To do list: Previsão do tempo.">
+      <created>1644709335298</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1644709335298</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Tratando cidades invalidas.">
+      <created>1658338924328</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1658338924328</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Tratando cidades invalidas.">
+      <created>1658339673610</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1658339673610</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Tratando cidades invalidas.">
+      <created>1658340866104</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1658340866104</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Tratando cidades inválidas.">
+      <created>1658340904747</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1658340904747</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Tratando cidades inválidas.">
+      <created>1658340929687</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1658340929687</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Tratando cidades inválidas.">
+      <created>1658369699725</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1658369699725</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Tratando cidades inválidas.">
+      <created>1658369822719</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1658369822719</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Tratando cidades inválidas.">
+      <created>1658369908653</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1658369908653</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Tratando cidades inválidas.">
+      <created>1658369956460</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1658369956460</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Tratando cidades inválidas.">
+      <created>1658370059302</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1658370059302</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Tratando cidades inválidas.">
+      <created>1658370356948</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1658370356948</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Tratando cidades inválidas.">
+      <created>1658370442806</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1658370442806</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Tratando cidades inválidas.">
+      <created>1658370499157</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1658370499157</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Registrando a merd@ que fiz" />
+    <MESSAGE value="Registrando a merda que fiz" />
+    <MESSAGE value="Refazendo..." />
+    <MESSAGE value="Finalizado!" />
+    <MESSAGE value="To do list: Previsão do tempo." />
+    <MESSAGE value="Tratando cidades invalidas." />
+    <MESSAGE value="Tratando cidades inválidas." />
+    <option name="LAST_COMMIT_MESSAGE" value="Tratando cidades inválidas." />
+  </component>
+</project>

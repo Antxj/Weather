@@ -3,16 +3,20 @@ import config  # config.py com api_key = 'xxxxxx'
 
 api_key = config.api_key
 
-cidade_atual = input('Favor inserir o nome de uma cidade: ').lower()
+def clima(cidade):
 
-link = f'https://api.openweathermap.org/data/2.5/weather?q={cidade_atual}&appid={api_key}&lang=pt_br'
 
-requisicao_atual = requests.get(link)  # 200 = Válida / 404  = Inválida
+
+
+cidade_atual = input('Favor inserir o nome de uma cidade: ')
+cidade_atual = cidade_atual.lower()
+# print(cidade)
 
 
 while requisicao_atual.status_code != 200:
     print('Cidade inválida, tente novamente.')
-    cidade_atual = input('Favor inserir o nome de uma cidade: ').lower()
+    cidade_atual = input('Favor inserir o nome de uma cidade: ')
+    cidade_atual = cidade_atual.lower()
     link = f'https://api.openweathermap.org/data/2.5/weather?q={cidade_atual}&appid={api_key}&lang=pt_br'
     requisicao_atual = requests.get(link)
 
